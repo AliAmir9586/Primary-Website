@@ -1,0 +1,41 @@
+.prl-1 {
+    background: url(./img/statistic.jpg) 100% 100% no-repeat fixed;
+    color: #fff;
+    min-height: 300px;
+    height: 100%;
+}
+.marg75 {
+    margin-top: 75px;
+}
+
+.aio-icon.none {
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    text-align: center;
+    line-height: 1em;
+    color: #fff;
+    font-size: 40px;
+   
+    box-sizing: content-box;
+}
+
+.stats-desc {
+    width: 100%;
+    display: block;
+    text-align: center;
+}
+
+.stats-top .stats-number {
+    padding: 10px 0 5px 0;
+    display: inline-block;
+    font-weight: 300;
+    line-height: 1.3em;
+    font-size: 50px;
+    color: #fff;
+}
+.stats-block .stats-text {
+    font-size: 21px;
+    width: 100%;
+    font-family: Roboto Slab;
+}
