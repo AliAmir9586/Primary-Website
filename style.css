@@ -281,12 +281,12 @@ border:1px solid rgba(252, 235, 235, 0.87);
     padding: 0;
 }
 
-@media (max-width:450px) {
+
     
     body{
-        width: 500px;
+       min-width: 350px;
     }
-    }
+   
     .hover-effect{
 background-color: #333;
     }
