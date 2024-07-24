@@ -2,6 +2,9 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+       min-width: 1012px;
+    }
 .Tittle{
     color: white;
 }
@@ -283,9 +286,7 @@ border:1px solid rgba(252, 235, 235, 0.87);
 
 
     
-    body{
-       min-width: 1012px;
-    }
+    
    
     .hover-effect{
 background-color: #333;
